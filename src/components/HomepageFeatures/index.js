@@ -6,7 +6,7 @@ const FeatureList = [
   {
 
 
-    title: 'Easy to Use314 2 33rrreee ddefeefeefee',
+    title: 'Easy to Use314',
 
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
