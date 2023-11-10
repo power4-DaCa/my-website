@@ -4,6 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+
     title: 'Easy to Use31',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
